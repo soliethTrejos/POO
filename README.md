@@ -3,9 +3,5 @@
 Este repo esta creado para subir todas las clases de programación orientada a objetos 
   
  <p align="center">
-<img 
-  src="https://github.com/user-attachments/assets/b9f03151-6503-44e5-ad2c-58f418e4082a" alt="pinky"  style="width: 250px; height: 220px; object-fit: contain;">
 
-)
-![giphy (1)](https://github.com/user-attachments/assets/b9f03151-6503-44e5-ad2c-58f418e4082a)
-
+![giphy (1)](https://github.com/user-attachments/assets/81d0bcf1-ca87-40b5-b92a-68ffa2912845)
