@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18fa8872-1f54-4224-b294-9188fbd76d8a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ni/edu/uam/Uam_app/modelo/TuPrimeraEntidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ni/edu/uam/Uam_app/run/.algo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ni/edu/uam/Uam_app/run/Uam_app.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/Uam_app-labels_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/Uam_app-messages_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/naviox-users.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/naviox.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/aplicacion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/controladores.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/annotation-type-default.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/aplicacion.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/application.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/controladores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/controllers.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/conversores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/converters.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/default-size.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/editores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/editors.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/longitud-defecto.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/stereotype-type-default.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tabs-default-values.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tipo-anotacion-defecto.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tipo-estereotipo-defecto.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/validadores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/validators.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/valores-defecto-tabs.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/editores.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/xava/style/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/xava-junit.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="34XwWS3KxW7cm6j2eRI1LmYRiHf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Uam_app.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.Uam_app [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18fa8872-1f54-4224-b294-9188fbd76d8a" name="Changes" comment="" />
+      <created>1761373256740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761373256740</updated>
+      <workItem from="1761373258213" duration="258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
